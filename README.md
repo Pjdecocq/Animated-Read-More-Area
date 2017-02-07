@@ -1,7 +1,7 @@
 # Animated-Read-More-Area
 Multiple animated read more area's with Wordpress shortcode
 
-# Usage in Wordpress
+## Usage in Wordpress
 In an Text editor type the following shortcode:
 
 **[read-more]** <br>
