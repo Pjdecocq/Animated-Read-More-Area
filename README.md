@@ -21,4 +21,4 @@ Vivamus mattis dui non leo malesuada, in dictum risus scelerisque. Aliquam sed m
 Link to fiddle. Working example not with shortcode but pure jquery. 
 *Note: By targeting the button look if there is a possible parent element like a `<p>` tag. Wordpress' wrapping `<p>` tags in tinyMceEditors by default *
 
-<a href="https://jsfiddle.net/pjdecocq/h8wfwpzL/">Working example Animated Read more area's</a>
+<a href="https://jsfiddle.net/pjdecocq/h8wfwpzL/" target="_blank">Working example Animated Read more area's</a>
