@@ -16,3 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et sagittis tort
 
 Vivamus mattis dui non leo malesuada, in dictum risus scelerisque. Aliquam sed mattis nisl. Nunc a maximus lorem, vel ornare mi. Maecenas pharetra vitae est vulputate efficitur. sit amet fermentum massa ultricies eu.<br>
 **[/read-more]**
+
+
+Link to fiddle. Working example not with shortcode but pure jquery. 
+*Note: By targeting the button look if there is a possible parent element like a `<p>` tag. Wordpress' wrapping `<p>` tags in tinyMceEditors by default *
